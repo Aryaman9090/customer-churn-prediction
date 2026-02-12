@@ -61,6 +61,16 @@ We created visual charts such as:
 * Charges distribution
 
 ---
+# Visualization
+<img width="552" height="441" alt="f0507b4b-eaa7-4e5a-95bc-25520882447d" src="https://github.com/user-attachments/assets/7e0f2903-61d6-46e7-babf-9f341a4c5614" />
+<img width="543" height="441" alt="ad7558e4-5cda-432a-ad70-3eaa125a1d7d" src="https://github.com/user-attachments/assets/d09f17d8-e672-4214-97b5-bdfb045e7d12" />
+<img width="552" height="494" alt="b6cb63a5-a303-45f5-b5c8-7abde19b0239" src="https://github.com/user-attachments/assets/1aafa451-a14b-40b6-b91b-7d784297fed2" />
+<img width="543" height="494" alt="4b7b9e67-d83d-4628-bf2e-861c59411351" src="https://github.com/user-attachments/assets/0b331b50-8366-4e8f-97bc-fc98400ab6cc" />
+<img width="543" height="494" alt="caff79d5-67e3-4ea3-84cb-63a978d99de1" src="https://github.com/user-attachments/assets/4f64aa38-0f65-409b-ae6d-37bbb58d80a5" />
+<img width="552" height="510" alt="824eedbf-1e62-41f6-81e2-6270d0452e61" src="https://github.com/user-attachments/assets/54aa8f1b-0914-4fc3-ab4b-ffebdab938b6" />
+<img width="1209" height="452" alt="80dfcc5e-5334-4151-9f2f-b8b5ba7c2c1b" src="https://github.com/user-attachments/assets/68a11c71-68e1-4599-af16-c61dff5e5952" />
+
+---
 
 # Data Preprocessing
 
